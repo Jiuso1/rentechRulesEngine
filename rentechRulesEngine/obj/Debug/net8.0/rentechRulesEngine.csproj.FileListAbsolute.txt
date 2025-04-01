@@ -7,7 +7,6 @@ C:\Users\jesus\Documents\c#\rentechRulesEngine\rentechRulesEngine\obj\Debug\net8
 C:\Users\jesus\Documents\c#\rentechRulesEngine\rentechRulesEngine\obj\Debug\net8.0\rentechRulesEngine.AssemblyInfoInputs.cache
 C:\Users\jesus\Documents\c#\rentechRulesEngine\rentechRulesEngine\obj\Debug\net8.0\rentechRulesEngine.AssemblyInfo.cs
 C:\Users\jesus\Documents\c#\rentechRulesEngine\rentechRulesEngine\obj\Debug\net8.0\rentechRulesEngine.csproj.CoreCompileInputs.cache
-C:\Users\jesus\Documents\c#\rentechRulesEngine\rentechRulesEngine\obj\Debug\net8.0\rentechRulesEngine.sourcelink.json
 C:\Users\jesus\Documents\c#\rentechRulesEngine\rentechRulesEngine\obj\Debug\net8.0\rentechRulesEngine.dll
 C:\Users\jesus\Documents\c#\rentechRulesEngine\rentechRulesEngine\obj\Debug\net8.0\refint\rentechRulesEngine.dll
 C:\Users\jesus\Documents\c#\rentechRulesEngine\rentechRulesEngine\obj\Debug\net8.0\rentechRulesEngine.pdb

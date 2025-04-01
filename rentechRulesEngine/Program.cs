@@ -64,43 +64,43 @@ Rule rule6 = new Rule();
 Rule rule7 = new Rule();
 Rule rule9 = new Rule();
 
-rule4.RuleName = "Test Rule";
+rule4.RuleName = "MaximunServiceTime";
 rule4.SuccessEvent = "Count is within tolerance.";
 rule4.ErrorMessage = "Over expected.";
 rule4.Expression = "count < 3";
 rule4.RuleExpressionType = RuleExpressionType.LambdaExpression;
 
-rule5.RuleName = "Test Rule";
+rule5.RuleName = "MaximumServiceTimeExchange";
 rule5.SuccessEvent = "Count is within tolerance.";
 rule5.ErrorMessage = "Over expected.";
 rule5.Expression = "count < 3";
 rule5.RuleExpressionType = RuleExpressionType.LambdaExpression;
 
-rule6.RuleName = "Test Rule";
+rule6.RuleName = "TwoWeekReturnTime";
 rule6.SuccessEvent = "Count is within tolerance.";
 rule6.ErrorMessage = "Over expected.";
 rule6.Expression = "count < 3";
 rule6.RuleExpressionType = RuleExpressionType.LambdaExpression;
 
-rule7.RuleName = "Test Rule";
+rule7.RuleName = "MaximumDataRecoveryTime";
 rule7.SuccessEvent = "Count is within tolerance.";
 rule7.ErrorMessage = "Over expected.";
 rule7.Expression = "count < 3";
 rule7.RuleExpressionType = RuleExpressionType.LambdaExpression;
 
-rule9.RuleName = "Test Rule";
+rule9.RuleName = "TwoWeekRenewalReturnTime";
 rule9.SuccessEvent = "Count is within tolerance.";
 rule9.ErrorMessage = "Over expected.";
 rule9.Expression = "count < 3";
 rule9.RuleExpressionType = RuleExpressionType.LambdaExpression;
 
-suscriptionRules.Add(rule1);
-suscriptionRules.Add(rule2);
-suscriptionRules.Add(rule3);
-suscriptionRules.Add(rule8);
-suscriptionRules.Add(rule10);
+productRules.Add(rule4);
+productRules.Add(rule5);
+productRules.Add(rule6);
+productRules.Add(rule7);
+productRules.Add(rule9);
 
-workflowSuscription.Rules = suscriptionRules;
+workflowProduct.Rules = productRules;
 
 workflows.Add(workflowSuscription);
 workflows.Add(workflowProduct);

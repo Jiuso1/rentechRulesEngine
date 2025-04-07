@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA33FDD3-198B-4C2D-982B-6CB9DCFF544C}|rentechRulesEngine\\rentechRulesEngine.csproj|c:\\users\\jesus\\documents\\c#\\rentechrulesengine\\rentechrulesengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA33FDD3-198B-4C2D-982B-6CB9DCFF544C}|rentechRulesEngine\\rentechRulesEngine.csproj|solutionrelative:rentechrulesengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA33FDD3-198B-4C2D-982B-6CB9DCFF544C}|rentechRulesEngine\\rentechRulesEngine.csproj|c:\\users\\jesus\\documents\\c#\\rentechrulesengine\\rentechrulesengine\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA33FDD3-198B-4C2D-982B-6CB9DCFF544C}|rentechRulesEngine\\rentechRulesEngine.csproj|solutionrelative:rentechrulesengine\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA33FDD3-198B-4C2D-982B-6CB9DCFF544C}|rentechRulesEngine\\rentechRulesEngine.csproj|c:\\users\\jesus\\documents\\c#\\rentechrulesengine\\rentechrulesengine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA33FDD3-198B-4C2D-982B-6CB9DCFF544C}|rentechRulesEngine\\rentechRulesEngine.csproj|solutionrelative:rentechrulesengine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,15 +31,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\Program.cs",
-              "RelativeDocumentMoniker": "rentechRulesEngine\\Program.cs",
-              "ToolTip": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\Program.cs",
-              "RelativeToolTip": "rentechRulesEngine\\Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Title": "Rules.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\Rules.cs",
+              "RelativeDocumentMoniker": "rentechRulesEngine\\Rules.cs",
+              "ToolTip": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\Rules.cs",
+              "RelativeToolTip": "rentechRulesEngine\\Rules.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAgwJYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "rentechRulesEngine",
-              "WhenOpened": "2025-03-31T10:45:12.763Z",
+              "WhenOpened": "2025-04-06T14:59:21.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\Product.cs",
+              "RelativeDocumentMoniker": "rentechRulesEngine\\Product.cs",
+              "ToolTip": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\Product.cs",
+              "RelativeToolTip": "rentechRulesEngine\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:59:20.542Z",
               "EditorCaption": ""
             }
           ]

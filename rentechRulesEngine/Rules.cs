@@ -103,9 +103,9 @@ namespace Rules
             rule4.RuleExpressionType = RuleExpressionType.LambdaExpression;
 
             rule5.RuleName = "MaximumServiceTimeExchange";
-            rule5.SuccessEvent = "True.";
+            rule5.SuccessEvent = "You can exchange your products.";
             rule5.ErrorMessage = "The product still has service time.";
-            rule5.Expression = "timeInUse >= maximunServiceTime";
+            rule5.Expression = "timeInUse > maximumServiceTime";
             rule5.RuleExpressionType = RuleExpressionType.LambdaExpression;
 
             //productRules.Add(rule4);
@@ -113,7 +113,7 @@ namespace Rules
 
             workflowProduct.Rules = productRules;
 
-            workflows.Add(workflowSuscription);
+            //workflows.Add(workflowSuscription);
             workflows.Add(workflowProduct);
 
             // ADD REST OF THE CODE IN THE GITHUB DEMO
@@ -124,7 +124,7 @@ namespace Rules
             /*datas.maximunServiceTime = 4;
             datas.maximumTypeServiceTime = 5;*/
 
-            datas.timeInUse = 3;
+            datas.timeInUse = 10;
             datas.maximumServiceTime = 5;
             var inputs = new dynamic[]
               {
@@ -146,6 +146,7 @@ namespace Rules
 
             resultList.OnFail(() =>
             {
+                Console.WriteLine("AAA");
                 outcome = false;
             });
 

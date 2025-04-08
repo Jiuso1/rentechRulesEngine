@@ -386,24 +386,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jesus\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\manu_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\rentechRulesEngine.csproj",
+      "projectUniqueName": "C:\\Users\\manu_\\Desktop\\Clase\\5-Quinto\\Modelado\\rentechRulesEngine\\rentechRulesEngine\\rentechRulesEngine.csproj",
       "projectName": "rentechRulesEngine",
-      "projectPath": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\rentechRulesEngine.csproj",
-      "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\obj\\",
+      "projectPath": "C:\\Users\\manu_\\Desktop\\Clase\\5-Quinto\\Modelado\\rentechRulesEngine\\rentechRulesEngine\\rentechRulesEngine.csproj",
+      "packagesPath": "C:\\Users\\manu_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\manu_\\Desktop\\Clase\\5-Quinto\\Modelado\\rentechRulesEngine\\rentechRulesEngine\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\manu_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -428,8 +423,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -456,7 +450,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

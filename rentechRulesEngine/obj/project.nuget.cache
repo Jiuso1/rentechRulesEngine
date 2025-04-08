@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "HeskkmXhxUA=",
+  "dgSpecHash": "vmSsFjuuU78=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\rentechRulesEngine.csproj",
+  "projectFilePath": "C:\\Users\\manu_\\Desktop\\Clase\\5-Quinto\\Modelado\\rentechRulesEngine\\rentechRulesEngine\\rentechRulesEngine.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jesus\\.nuget\\packages\\fastexpressioncompiler\\5.0.2\\fastexpressioncompiler.5.0.2.nupkg.sha512",
-    "C:\\Users\\jesus\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
-    "C:\\Users\\jesus\\.nuget\\packages\\rulesengine\\5.0.6\\rulesengine.5.0.6.nupkg.sha512",
-    "C:\\Users\\jesus\\.nuget\\packages\\system.io.pipelines\\9.0.1\\system.io.pipelines.9.0.1.nupkg.sha512",
-    "C:\\Users\\jesus\\.nuget\\packages\\system.linq.dynamic.core\\1.6.0.1\\system.linq.dynamic.core.1.6.0.1.nupkg.sha512",
-    "C:\\Users\\jesus\\.nuget\\packages\\system.text.encodings.web\\9.0.1\\system.text.encodings.web.9.0.1.nupkg.sha512",
-    "C:\\Users\\jesus\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512"
+    "C:\\Users\\manu_\\.nuget\\packages\\fastexpressioncompiler\\5.0.2\\fastexpressioncompiler.5.0.2.nupkg.sha512",
+    "C:\\Users\\manu_\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\manu_\\.nuget\\packages\\rulesengine\\5.0.6\\rulesengine.5.0.6.nupkg.sha512",
+    "C:\\Users\\manu_\\.nuget\\packages\\system.io.pipelines\\9.0.1\\system.io.pipelines.9.0.1.nupkg.sha512",
+    "C:\\Users\\manu_\\.nuget\\packages\\system.linq.dynamic.core\\1.6.0.1\\system.linq.dynamic.core.1.6.0.1.nupkg.sha512",
+    "C:\\Users\\manu_\\.nuget\\packages\\system.text.encodings.web\\9.0.1\\system.text.encodings.web.9.0.1.nupkg.sha512",
+    "C:\\Users\\manu_\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512"
   ],
   "logs": []
 }

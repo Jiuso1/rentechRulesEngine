@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rentechRulesEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f230772b782af2a3667ef30ba71688f55b08f36c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e4c14dec49c1de5d27b375b54b379723b348d0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("rentechRulesEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rentechRulesEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\",
+  "WorkspaceRootPath": "C:\\Users\\manu_\\Desktop\\Clase\\5-Quinto\\Modelado\\rentechRulesEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA33FDD3-198B-4C2D-982B-6CB9DCFF544C}|rentechRulesEngine\\rentechRulesEngine.csproj|c:\\users\\jesus\\documents\\c#\\rentechrulesengine\\rentechrulesengine\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA33FDD3-198B-4C2D-982B-6CB9DCFF544C}|rentechRulesEngine\\rentechRulesEngine.csproj|c:\\users\\manu_\\desktop\\clase\\5-quinto\\modelado\\rentechrulesengine\\rentechrulesengine\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA33FDD3-198B-4C2D-982B-6CB9DCFF544C}|rentechRulesEngine\\rentechRulesEngine.csproj|solutionrelative:rentechrulesengine\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA33FDD3-198B-4C2D-982B-6CB9DCFF544C}|rentechRulesEngine\\rentechRulesEngine.csproj|c:\\users\\jesus\\documents\\c#\\rentechrulesengine\\rentechrulesengine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA33FDD3-198B-4C2D-982B-6CB9DCFF544C}|rentechRulesEngine\\rentechRulesEngine.csproj|c:\\users\\manu_\\desktop\\clase\\5-quinto\\modelado\\rentechrulesengine\\rentechrulesengine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA33FDD3-198B-4C2D-982B-6CB9DCFF544C}|rentechRulesEngine\\rentechRulesEngine.csproj|solutionrelative:rentechrulesengine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,25 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Rules.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\Rules.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\Desktop\\Clase\\5-Quinto\\Modelado\\rentechRulesEngine\\rentechRulesEngine\\Rules.cs",
               "RelativeDocumentMoniker": "rentechRulesEngine\\Rules.cs",
-              "ToolTip": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\Rules.cs",
+              "ToolTip": "C:\\Users\\manu_\\Desktop\\Clase\\5-Quinto\\Modelado\\rentechRulesEngine\\rentechRulesEngine\\Rules.cs",
               "RelativeToolTip": "rentechRulesEngine\\Rules.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEcAAAAwAAAAAAAAAA==",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAkwGsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "rentechRulesEngine",
               "WhenOpened": "2025-04-06T14:59:21.464Z",
@@ -46,9 +42,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\Desktop\\Clase\\5-Quinto\\Modelado\\rentechRulesEngine\\rentechRulesEngine\\Product.cs",
               "RelativeDocumentMoniker": "rentechRulesEngine\\Product.cs",
-              "ToolTip": "C:\\Users\\jesus\\Documents\\c#\\rentechRulesEngine\\rentechRulesEngine\\Product.cs",
+              "ToolTip": "C:\\Users\\manu_\\Desktop\\Clase\\5-Quinto\\Modelado\\rentechRulesEngine\\rentechRulesEngine\\Product.cs",
               "RelativeToolTip": "rentechRulesEngine\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
